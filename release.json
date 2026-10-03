@@ -1,0 +1,21 @@
+{
+  "name": "UCE Evidence Lens for Gemini",
+  "version": "0.1.0-preview.1",
+  "channel": "preview",
+  "mcpEndpoint": "https://uce-evidence-lens-claude-zptt2ggs7a-uc.a.run.app/mcp",
+  "skill": {
+    "archive": "downloads/inspect-uce-evidence.zip",
+    "sha256": "1138d03d33347d7c60e842609fd0921bad5bf8f054b9951042d6d128c5b0ec87"
+  },
+  "verification": {
+    "executionContext": "server",
+    "nativeInspection": "passed-after-one-retry",
+    "nativeReport": "passed-after-one-retry",
+    "nativeDownload": "unverified",
+    "ordinaryChatTools": "unverified"
+  },
+  "limits": [
+    "Integrity checks do not establish identity, authorship, ownership, rights, consent, or creation date.",
+    "Unsigned inspection reports are not UCE Certificates or new permanent records."
+  ]
+}
