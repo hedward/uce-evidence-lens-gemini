@@ -7,7 +7,7 @@ UCE Evidence Lens separates integrity checks, transaction chronology, recorded
 assertions, and coverage limits. You can also request a fresh, unsigned inspection
 report for an explicit public record.
 
-[Overview and setup](https://hedward.github.io/uce-evidence-lens-gemini/)
+[Overview and setup](https://uceevidencelens.com/gemini/)
 · [Download the Gemini skill](https://github.com/hedward/uce-evidence-lens-gemini/releases/download/v0.1.0-preview.1/inspect-uce-evidence.zip)
 · [Setup guide](INSTALL.md)
 · [Preview status](CHANGELOG.md)
@@ -82,5 +82,6 @@ notice also travel inside the download.
 Operated by **5 Race Street LLC**, under the registered alternate names
 **Copyright by UCE** and **CbyUCE**.
 
-[Privacy](PRIVACY.md) · [Terms](TERMS.md) ·
+[Privacy](https://uceevidencelens.com/gemini/privacy/) · [Terms](https://uceevidencelens.com/gemini/terms/) ·
+[Support](https://uceevidencelens.com/gemini/support/) ·
 [support@universalcreationevidence.com](mailto:support@universalcreationevidence.com)
